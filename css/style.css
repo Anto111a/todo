@@ -1,0 +1,17 @@
+.tab-content {
+    padding-top: 20px;
+}
+
+.panel {
+width: calc((100% - 30px) / 3 );
+    margin: 4px;
+    padding: 0;
+}
+
+.buttons-container button {
+	margin-left: 5px;
+}
+
+.form-group {
+    margin-top: 20px;
+}
